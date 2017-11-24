@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1130px" height="475px" viewBox="0 0 1130 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>scheme</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="60" width="140" height="80" rx="8"></rect>
+        <rect id="path-2" x="2" y="40" width="140" height="80" rx="8"></rect>
+        <rect id="path-3" x="2" y="20" width="140" height="80" rx="8"></rect>
+        <rect id="path-4" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-5" x="582" y="60" width="140" height="80" rx="8"></rect>
+        <rect id="path-6" x="582" y="40" width="140" height="80" rx="8"></rect>
+        <rect id="path-7" x="582" y="20" width="140" height="80" rx="8"></rect>
+        <rect id="path-8" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-9" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-10" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-11" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-12" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-13" x="202" y="20" width="80" height="40" rx="20"></rect>
+    </defs>
+    <g id="Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-it-works-HD" transform="translate(-150.000000, -320.000000)">
+            <g transform="translate(-11.000000, 1.000000)" id="scheme">
+                <g transform="translate(161.000000, 319.000000)">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#EE6E9F" stroke-width="2" x="3" y="61" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#7200DA" stroke-width="2" x="3" y="41" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#FFBD4A" stroke-width="2" x="3" y="21" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="box_with_text" transform="translate(2.000000, 0.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="PRIVATE-ASSETS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                            <tspan x="15" y="46">PRIVATE ASSETS</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#EE6E9F" stroke-width="2" x="583" y="61" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <rect stroke="#7200DA" stroke-width="2" x="583" y="41" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#FFBD4A" stroke-width="2" x="583" y="21" width="138" height="78" rx="8"></rect>
+                    </g>
+                    <g id="box_with_text" transform="translate(582.000000, 0.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="ERC20-TOKENS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                            <tspan x="18" y="46">ERC20 TOKENS</tspan>
+                        </text>
+                    </g>
+                    <g id="box_with_text" transform="translate(342.000000, 0.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="PATS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                            <tspan x="53" y="46">PATS</tspan>
+                        </text>
+                    </g>
+                    <g id="box_with_text" transform="translate(820.000000, 180.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="EXCHANGE" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                            <tspan x="31" y="46">EXCHANGE</tspan>
+                        </text>
+                    </g>
+                    <g id="box_with_text" transform="translate(582.000000, 180.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="DECENTRALIZED-SHAREH" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                            <tspan x="12.3693848" y="26">DECENTRALIZED</tspan>
+                            <tspan x="13.1384277" y="46">SHAREHOLDERS</tspan>
+                            <tspan x="22.3999023" y="66">ASSOCIATION</tspan>
+                        </text>
+                    </g>
+                    <g id="box_with_text" transform="translate(582.000000, 300.000000)">
+                        <g id="pack">
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                            </g>
+                        </g>
+                        <text id="DECENTRALIZED-MARKET" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal">
+                            <tspan x="12.3693848" y="36" fill="#333333">DECENTRALIZED</tspan>
+                            <tspan x="127.630615" y="36" fill="#000000"></tspan>
+                            <tspan x="40.9228516" y="56" fill="#000000">MARKET</tspan>
+                        </text>
+                    </g>
+                    <g id="arrow" transform="translate(142.000000, 32.000000)">
+                        <path d="M0,8 L198,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="190 16 190 0 200 8"></polygon>
+                    </g>
+                    <g id="arrow" transform="translate(482.000000, 32.000000)">
+                        <path d="M0,8 L98,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="90 16 90 0 100 8"></polygon>
+                    </g>
+                    <g id="arrow" transform="translate(722.000000, 212.000000)">
+                        <path d="M0,8 L96,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="88 16 88 0 98 8"></polygon>
+                    </g>
+                    <g id="arrow" transform="translate(890.000000, 119.500000) rotate(90.000000) translate(-890.000000, -119.500000) translate(829.500000, 111.500000)">
+                        <path d="M0,8 L119,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="111 16 111 0 121 8"></polygon>
+                    </g>
+                    <g id="arrow" transform="translate(891.000000, 290.000000) rotate(-90.000000) translate(-891.000000, -290.000000) translate(861.000000, 282.000000)">
+                        <path d="M0,8 L58,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="50 16 50 0 60 8"></polygon>
+                    </g>
+                    <g id="arrow" transform="translate(542.000000, 212.000000)">
+                        <path d="M0,8 L38,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="30 16 30 0 40 8"></polygon>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <rect stroke="#1E9DF2" stroke-width="1" x="202.5" y="20.5" width="79" height="39" rx="19.5"></rect>
+                    </g>
+                    <text id="START" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#1E9DF2">
+                        <tspan x="221" y="46">START</tspan>
+                    </text>
+                    <g id="turn" transform="translate(522.000000, 201.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+                    </g>
+                    <g id="arrow" transform="translate(542.000000, 332.000000)">
+                        <path d="M0,8 L38,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                        <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="30 16 30 0 40 8"></polygon>
+                    </g>
+                    <g id="turn" transform="translate(522.000000, 321.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+                    </g>
+                    <g id="turn" transform="translate(522.000000, 321.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+                    </g>
+                    <g id="turn" transform="translate(512.500000, 49.500000) scale(-1, -1) translate(-512.500000, -49.500000) translate(503.000000, 40.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+                    </g>
+                    <g id="turn" transform="translate(880.500000, 48.500000) scale(-1, -1) translate(-880.500000, -48.500000) translate(871.000000, 39.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+                    </g>
+                    <g id="turn" transform="translate(875.500000, 330.500000) scale(-1, 1) translate(-875.500000, -330.500000) translate(860.000000, 321.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,2.59038535e-16 C-9.46414883e-14,10.4934102 8.50658975,19 19,19 L31,19" id="Line-3"></path>
+                    </g>
+                    <g id="line" transform="translate(721.000000, 338.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M1,1.99191728 L137.5,1.99191728" id="Line-2"></path>
+                    </g>
+                    <g id="line" transform="translate(722.000000, 37.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M1.07246377,1.99191728 L147.463768,1.99191728" id="Line-2"></path>
+                    </g>
+                    <g id="line" transform="translate(522.500000, 189.488503) rotate(90.000000) translate(-522.500000, -189.488503) translate(392.011497, 187.988503)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                        <path d="M1.89130435,1.99191728 L260.054348,1.99191728" id="Line-2"></path>
+                    </g>
+                    <text id="在每一段时间内，市场都会提供一个有限的投" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="0" y="191">在每一段时间内，市场都会提供</tspan>
+                        <tspan x="0" y="205">一个有限的投资非上市公司股票</tspan>
+                        <tspan x="0" y="219">的机会，并且这一切都完全符合</tspan>
+                        <tspan x="0" y="233">最可靠且盈利潜力最大的标准。     </tspan>
+                    </text>
+                    <text id="PATS协议为投资者群体和分散性代币市场" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="340" y="131">PATS</tspan>
+                        <tspan x="362.172852" y="131" font-family="PingFangSC-Regular, PingFang SC">协议为投资者群体和分散</tspan>
+                        <tspan x="340" y="145" font-family="PingFangSC-Regular, PingFang SC">性代币市场发放合同。</tspan>
+                    </text>
+                    <text id="任何PATS协议的代币所有者都可以通过智" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="580" y="431">任何</tspan>
+                        <tspan x="600" y="431" font-family="OpenSans-Regular, Open Sans">PATS</tspan>
+                        <tspan x="622.172852" y="431">协议的代币所有者都</tspan>
+                        <tspan x="580" y="445">可以通过智能合约或传统交换对</tspan>
+                        <tspan x="580" y="459">将来的汇编（操作）和代币交换</tspan>
+                        <tspan x="580" y="473">产生影响。</tspan>
+                    </text>
+                    <text id="所有符号化的私人套件都会被添加到标准交易" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="990" y="191">所有符号化的私人套件都会被添</tspan>
+                        <tspan x="990" y="205">加到标准交易所，每个人都可以</tspan>
+                        <tspan x="990" y="219">在这里买到它们并同时成为分散</tspan>
+                        <tspan x="990" y="233">性投资者群体的一员。</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

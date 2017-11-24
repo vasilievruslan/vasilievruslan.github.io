@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1200px" viewBox="0 0 320 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>How it works MP</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="20" y="100" width="140" height="80" rx="8"></rect>
+        <rect id="path-2" x="20" y="80" width="140" height="80" rx="8"></rect>
+        <rect id="path-3" x="20" y="60" width="140" height="80" rx="8"></rect>
+        <rect id="path-4" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-5" x="0" y="0" width="80" height="40" rx="20"></rect>
+        <rect id="path-6" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-7" x="20" y="660" width="140" height="80" rx="8"></rect>
+        <rect id="path-8" x="20" y="640" width="140" height="80" rx="8"></rect>
+        <rect id="path-9" x="20" y="620" width="140" height="80" rx="8"></rect>
+        <rect id="path-10" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-11" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-12" x="0" y="0" width="140" height="80" rx="8"></rect>
+        <rect id="path-13" x="0" y="0" width="140" height="80" rx="8"></rect>
+    </defs>
+    <g id="Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-it-works-MP">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#EE6E9F" stroke-width="2" x="21" y="101" width="138" height="78" rx="8"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#7200DA" stroke-width="2" x="21" y="81" width="138" height="78" rx="8"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#FFBD4A" stroke-width="2" x="21" y="61" width="138" height="78" rx="8"></rect>
+            </g>
+            <text id="각-기간-마다-시장은-가장-신뢰할-수" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="10" font-weight="normal" fill="#9B9B9B">
+                <tspan x="180" y="49">각</tspan>
+                <tspan x="188.65" y="49" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="191.247656" y="49">기간</tspan>
+                <tspan x="208.547656" y="49" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="211.145312" y="49">마다</tspan>
+                <tspan x="228.445312" y="49" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="231.042969" y="49">시장은</tspan>
+                <tspan x="256.992969" y="49" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="259.590625" y="49">가장</tspan>
+                <tspan x="276.890625" y="49" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="279.488281" y="49">신뢰</tspan>
+                <tspan x="180" y="63">할</tspan>
+                <tspan x="188.65" y="63" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="191.247656" y="63">수</tspan>
+                <tspan x="199.897656" y="63" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="202.495313" y="63">있고</tspan>
+                <tspan x="219.795312" y="63" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="222.392969" y="63">잠재적으로</tspan>
+                <tspan x="265.642969" y="63" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="268.240625" y="63">수익성</tspan>
+                <tspan x="294.190625" y="63" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="180" y="77">있는</tspan>
+                <tspan x="197.3" y="77" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="199.897656" y="77">투자에</tspan>
+                <tspan x="225.847656" y="77" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="228.445312" y="77">대한</tspan>
+                <tspan x="245.745313" y="77" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="248.342969" y="77">기준을</tspan>
+                <tspan x="274.292969" y="77" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="276.890625" y="77">바탕</tspan>
+                <tspan x="180" y="91">으로</tspan>
+                <tspan x="197.3" y="91" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="199.897656" y="91">완전한</tspan>
+                <tspan x="225.847656" y="91" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="228.445312" y="91">비공개</tspan>
+                <tspan x="254.395312" y="91" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="256.992969" y="91">회사</tspan>
+                <tspan x="274.292969" y="91" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="276.890625" y="91">주식</tspan>
+                <tspan x="180" y="105">에</tspan>
+                <tspan x="188.65" y="105" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="191.247656" y="105">제한된</tspan>
+                <tspan x="217.197656" y="105" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="219.795312" y="105">투자</tspan>
+                <tspan x="237.095313" y="105" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="239.692969" y="105">제안을</tspan>
+                <tspan x="265.642969" y="105" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="268.240625" y="105">제시합</tspan>
+                <tspan x="180" y="119">니다</tspan>
+                <tspan x="197.3" y="119" font-family="OpenSans-Regular, Open Sans">.</tspan>
+            </text>
+            <g id="arrow" transform="translate(230.000000, 280.000000) rotate(90.000000) translate(-230.000000, -280.000000) translate(210.000000, 272.000000)">
+                <path d="M0,8 L38,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="30 16 30 0 40 8"></polygon>
+            </g>
+            <g id="arrow" transform="translate(229.500000, 721.000000) rotate(90.000000) translate(-229.500000, -721.000000) translate(-111.000000, 713.000000)">
+                <path d="M0,8 L679,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="671 16 671 0 681 8"></polygon>
+            </g>
+            <g id="turn" transform="translate(220.500000, 249.500000) scale(-1, -1) translate(-220.500000, -249.500000) translate(211.000000, 240.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <g id="turn" transform="translate(90.000000, 221.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <path d="M71.0544311,200 L109,200" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(90.000000, 200.000000) rotate(90.000000) translate(-90.000000, -200.000000) "></path>
+            <path d="M71.0544311,761 L110,761" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(90.500000, 761.000000) rotate(90.000000) translate(-90.500000, -761.000000) "></path>
+            <path d="M71.0544311,881 L110,881" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(90.500000, 881.000000) rotate(90.000000) translate(-90.500000, -881.000000) "></path>
+            <path d="M81.0544311,990 L100,990" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(90.500000, 990.000000) rotate(90.000000) translate(-90.500000, -990.000000) "></path>
+            <path d="M228,1020 L111,1020" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square"></path>
+            <g id="box_with_text" transform="translate(20.000000, 40.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="PRIVATE-ASSETS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="15" y="46">PRIVATE ASSETS</tspan>
+                </text>
+            </g>
+            <g id="start" transform="translate(120.000000, 220.000000)">
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#1E9DF2" stroke-width="1" x="0.5" y="0.5" width="79" height="39" rx="19.5"></rect>
+                </g>
+                <text id="START" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#1E9DF2">
+                    <tspan x="19" y="26">START</tspan>
+                </text>
+            </g>
+            <g id="box_with_text" transform="translate(160.000000, 300.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="PATS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="53" y="46">PATS</tspan>
+                </text>
+            </g>
+            <text id="PATS-프로토콜은-투자자-커뮤니티" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#9B9B9B">
+                <tspan x="20" y="311">PATS </tspan>
+                <tspan x="44.7705078" y="311" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">프로토콜은</tspan>
+                <tspan x="88.0205078" y="311"> </tspan>
+                <tspan x="90.6181641" y="311" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">투자자</tspan>
+                <tspan x="116.568164" y="311"> </tspan>
+                <tspan x="119.16582" y="311" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">커뮤</tspan>
+                <tspan x="20" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">니티</tspan>
+                <tspan x="37.3" y="325"> </tspan>
+                <tspan x="39.8976562" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">및</tspan>
+                <tspan x="48.5476563" y="325"> </tspan>
+                <tspan x="51.1453125" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">분산</tspan>
+                <tspan x="68.4453125" y="325"> </tspan>
+                <tspan x="71.0429688" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">된</tspan>
+                <tspan x="79.6929688" y="325"> </tspan>
+                <tspan x="82.290625" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">토큰</tspan>
+                <tspan x="99.590625" y="325"> </tspan>
+                <tspan x="102.188281" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">시장을</tspan>
+                <tspan x="128.138281" y="325"> </tspan>
+                <tspan x="130.735938" y="325" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">위</tspan>
+                <tspan x="20" y="339" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">해</tspan>
+                <tspan x="28.65" y="339"> </tspan>
+                <tspan x="31.2476562" y="339" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">계약을</tspan>
+                <tspan x="57.1976563" y="339"> </tspan>
+                <tspan x="59.7953125" y="339" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">시작합니다</tspan>
+                <tspan x="103.045313" y="339">.</tspan>
+            </text>
+            <path d="M201,240 L209,240" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(205.000000, 240.000000) rotate(180.000000) translate(-205.000000, -240.000000) "></path>
+            <path d="M111,240 L120,240" id="Line-2" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square" transform="translate(115.500000, 240.000000) rotate(180.000000) translate(-115.500000, -240.000000) "></path>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#EE6E9F" stroke-width="2" x="21" y="661" width="138" height="78" rx="8"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#7200DA" stroke-width="2" x="21" y="641" width="138" height="78" rx="8"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect stroke="#FFBD4A" stroke-width="2" x="21" y="621" width="138" height="78" rx="8"></rect>
+            </g>
+            <g id="box_with_text" transform="translate(20.000000, 600.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="ERC20-TOKENS" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="18" y="46">ERC20 TOKENS</tspan>
+                </text>
+            </g>
+            <g id="box_with_text" transform="translate(20.000000, 780.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="DECENTRALIZED-SHAREH" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="12.3693848" y="26">DECENTRALIZED</tspan>
+                    <tspan x="13.1384277" y="46">SHAREHOLDERS</tspan>
+                    <tspan x="22.3999023" y="66">ASSOCIATION</tspan>
+                </text>
+            </g>
+            <g id="box_with_text" transform="translate(20.000000, 900.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="DECENTRALIZED-MARKET" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal">
+                    <tspan x="12.3693848" y="36" fill="#333333">DECENTRALIZED</tspan>
+                    <tspan x="127.630615" y="36" fill="#000000"></tspan>
+                    <tspan x="40.9228516" y="56" fill="#000000">MARKET</tspan>
+                </text>
+            </g>
+            <g id="box_with_text" transform="translate(160.000000, 1060.000000)">
+                <g id="pack">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <rect stroke="#9B9B9B" stroke-width="2" x="1" y="1" width="138" height="78" rx="8"></rect>
+                    </g>
+                </g>
+                <text id="EXCHANGE" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#333333">
+                    <tspan x="31" y="46">EXCHANGE</tspan>
+                </text>
+            </g>
+            <g id="turn" transform="translate(220.500000, 630.500000) scale(-1, 1) translate(-220.500000, -630.500000) translate(211.000000, 621.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <g id="arrow" transform="translate(185.000000, 640.000000) scale(-1, 1) translate(-185.000000, -640.000000) translate(160.000000, 632.000000)">
+                <path d="M0,8 L48,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="40 16 40 0 50 8"></polygon>
+            </g>
+            <g id="turn" transform="translate(220.500000, 810.500000) scale(-1, 1) translate(-220.500000, -810.500000) translate(211.000000, 801.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <g id="arrow" transform="translate(185.000000, 820.000000) scale(-1, 1) translate(-185.000000, -820.000000) translate(160.000000, 812.000000)">
+                <path d="M0,8 L48,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="40 16 40 0 50 8"></polygon>
+            </g>
+            <g id="turn" transform="translate(220.500000, 930.500000) scale(-1, 1) translate(-220.500000, -930.500000) translate(211.000000, 921.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <g id="arrow" transform="translate(185.000000, 940.000000) scale(-1, 1) translate(-185.000000, -940.000000) translate(160.000000, 932.000000)">
+                <path d="M0,8 L48,8" id="Path-2" stroke="#1E9DF2" stroke-width="2"></path>
+                <polygon id="Triangle" fill="#1E9DF2" fill-rule="evenodd" points="40 16 40 0 50 8"></polygon>
+            </g>
+            <g id="turn" transform="translate(90.000000, 1001.000000)" stroke="#1E9DF2" stroke-width="2" stroke-linecap="square">
+                <path d="M-4.54747351e-13,0 L-4.54747351e-13,0 L-4.54747351e-13,-5.73628733e-16 C-2.34441796e-13,10.4934102 8.50658975,19 19,19 L19,19" id="Line-3"></path>
+            </g>
+            <text id="토큰화-된-모든-개인-자산은-표준-거" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="9" font-weight="normal" fill="#9B9B9B">
+                <tspan x="20" y="1069">토큰화</tspan>
+                <tspan x="43.355" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="45.6928906" y="1069">된</tspan>
+                <tspan x="53.4778906" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="55.8157813" y="1069">모든</tspan>
+                <tspan x="71.3857813" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="73.7236719" y="1069">개인</tspan>
+                <tspan x="89.2936719" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="91.6315625" y="1069">자산은</tspan>
+                <tspan x="114.986563" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="117.324453" y="1069">표준</tspan>
+                <tspan x="132.894453" y="1069" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="20" y="1082">거래에</tspan>
+                <tspan x="43.355" y="1082" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="45.6928906" y="1082">추가가</tspan>
+                <tspan x="69.0478906" y="1082" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="71.3857813" y="1082">됩니다</tspan>
+                <tspan x="94.7407813" y="1082" font-family="OpenSans-Regular, Open Sans">. </tspan>
+                <tspan x="99.4736914" y="1082">이</tspan>
+                <tspan x="107.258691" y="1082" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="109.596582" y="1082">표준</tspan>
+                <tspan x="125.166582" y="1082" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="127.504473" y="1082">거</tspan>
+                <tspan x="20" y="1095">래에는</tspan>
+                <tspan x="43.355" y="1095" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="45.6928906" y="1095">모든</tspan>
+                <tspan x="61.2628906" y="1095" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="63.6007813" y="1095">사람이</tspan>
+                <tspan x="86.9557813" y="1095" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="89.2936719" y="1095">개인</tspan>
+                <tspan x="104.863672" y="1095" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="107.201563" y="1095">자산을</tspan>
+                <tspan x="130.556562" y="1095" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="20" y="1108">구매한</tspan>
+                <tspan x="43.355" y="1108" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="45.6928906" y="1108">후</tspan>
+                <tspan x="53.4778906" y="1108" font-family="OpenSans-Regular, Open Sans">, </tspan>
+                <tspan x="58.0218359" y="1108">분산</tspan>
+                <tspan x="73.5918359" y="1108" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="75.9297266" y="1108">된</tspan>
+                <tspan x="83.7147266" y="1108" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="86.0526172" y="1108">투자자</tspan>
+                <tspan x="109.407617" y="1108" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="111.745508" y="1108">커뮤니</tspan>
+                <tspan x="20" y="1121">티의</tspan>
+                <tspan x="35.57" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="37.9078906" y="1121">구성원이</tspan>
+                <tspan x="69.0478906" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="71.3857813" y="1121">될</tspan>
+                <tspan x="79.1707813" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="81.5086719" y="1121">수</tspan>
+                <tspan x="89.2936719" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="91.6315625" y="1121">있게</tspan>
+                <tspan x="107.201563" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="109.539453" y="1121">만들어</tspan>
+                <tspan x="132.894453" y="1121" font-family="OpenSans-Regular, Open Sans"> </tspan>
+                <tspan x="20" y="1134">줍니다</tspan>
+                <tspan x="43.355" y="1134" font-family="OpenSans-Regular, Open Sans">.</tspan>
+            </text>
+            <text id="PATS-프로토콜을-통해-실현-된-모" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" fill="#9B9B9B">
+                <tspan x="20" y="471">PATS </tspan>
+                <tspan x="44.7705078" y="471" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">프로토콜을</tspan>
+                <tspan x="88.0205078" y="471"> </tspan>
+                <tspan x="90.6181641" y="471" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">통해</tspan>
+                <tspan x="107.918164" y="471"> </tspan>
+                <tspan x="110.51582" y="471" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">실현</tspan>
+                <tspan x="127.81582" y="471"> </tspan>
+                <tspan x="130.413477" y="471" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">된</tspan>
+                <tspan x="139.063477" y="471"> </tspan>
+                <tspan x="141.661133" y="471" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">모든</tspan>
+                <tspan x="158.961133" y="471"> </tspan>
+                <tspan x="20" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">토큰</tspan>
+                <tspan x="37.3" y="485"> </tspan>
+                <tspan x="39.8976562" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">소유자는</tspan>
+                <tspan x="74.4976563" y="485"> </tspan>
+                <tspan x="77.0953125" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">스마트</tspan>
+                <tspan x="103.045313" y="485"> </tspan>
+                <tspan x="105.642969" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">계약</tspan>
+                <tspan x="122.942969" y="485"> </tspan>
+                <tspan x="125.540625" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">또는</tspan>
+                <tspan x="142.840625" y="485"> </tspan>
+                <tspan x="145.438281" y="485" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">표</tspan>
+                <tspan x="20" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">준</tspan>
+                <tspan x="28.65" y="499"> </tspan>
+                <tspan x="31.2476562" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">거래를</tspan>
+                <tspan x="57.1976563" y="499"> </tspan>
+                <tspan x="59.7953125" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">통해</tspan>
+                <tspan x="77.0953125" y="499"> </tspan>
+                <tspan x="79.6929688" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">이후의</tspan>
+                <tspan x="105.642969" y="499"> </tspan>
+                <tspan x="108.240625" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">어셈블러</tspan>
+                <tspan x="142.840625" y="499">(</tspan>
+                <tspan x="145.799609" y="499" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">작</tspan>
+                <tspan x="20" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">업</tspan>
+                <tspan x="28.65" y="513">) </tspan>
+                <tspan x="34.2066406" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">및</tspan>
+                <tspan x="42.8566406" y="513"> </tspan>
+                <tspan x="45.4542969" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">교환</tspan>
+                <tspan x="62.7542969" y="513"> </tspan>
+                <tspan x="65.3519531" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">토큰의</tspan>
+                <tspan x="91.3019531" y="513"> </tspan>
+                <tspan x="93.8996094" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">이동에</tspan>
+                <tspan x="119.849609" y="513"> </tspan>
+                <tspan x="122.447266" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">영향을</tspan>
+                <tspan x="148.397266" y="513"> </tspan>
+                <tspan x="150.994922" y="513" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">끼</tspan>
+                <tspan x="20" y="527" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">칠</tspan>
+                <tspan x="28.65" y="527"> </tspan>
+                <tspan x="31.2476562" y="527" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">수</tspan>
+                <tspan x="39.8976562" y="527"> </tspan>
+                <tspan x="42.4953125" y="527" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo">있습니다</tspan>
+                <tspan x="77.0953125" y="527">.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
