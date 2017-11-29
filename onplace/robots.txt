@@ -1,0 +1,20 @@
+# Инструкции для робота GoogleBot
+User-agent: Googlebot
+Disallow: /whitepapper/
+Disallow: /img/
+Crawl-delay: 2
+Host: www.onplace.io
+
+#Инструкции для робота Yandex
+User-agent: Yandex
+Disallow: /whitepapper/
+Disallow: /img/
+Crawl-delay: 4
+Host: www.onplace.io
+
+#Инструкции для остальных роботов
+User-agent: *
+Disallow: /whitepapper/
+Disallow: /img/
+Crawl-delay: 6
+Host: www.onplace.io
