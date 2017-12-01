@@ -12,8 +12,6 @@ RewriteCond %{REQUEST_fileNAME} !-d
 RewriteCond %{REQUEST_fileNAME} !-f
 RewriteRule (.*) /$1.html [L]
 
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(php|html|htm)(.*)\ HTTP/
-RewriteRule ^index.(php|html|htm)/?(.*)$ http://%{HTTP_HOST}/ [R=301]
-
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ (.*)/index\.(php|html|htm)(.*)\ HTTP/
-RewriteRule ^(.*)/index.php/?(.*)$ http://%{HTTP_HOST}/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.onplace\.io$ [NC]
+RewriteCond %{REQUEST_URI} !^/robots.*
+RewriteRule ^(.*)$ http://onplace.io/$1 [R=301,L]
