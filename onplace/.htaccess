@@ -20,4 +20,8 @@ RewriteCond %{REQUEST_URI} /index.html
 RewriteCond %{QUERY_STRING} ^\z
 RewriteRule ^(.*)$ http://onplace.io/? [R=301,L]
 
+#Редирект для старой несуществующей страницы с целью не потерять место в поиске
 Redirect 301 /page726882.html http://onplace.io/
+
+#Удаляем category из URL
+RewriteRule ^category/(.+)$ http://www.yourdomain.com/$1 [R=301,L]
