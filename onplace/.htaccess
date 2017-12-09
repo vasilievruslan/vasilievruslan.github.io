@@ -21,3 +21,4 @@ RewriteCond %{QUERY_STRING} ^\z
 RewriteRule ^(.*)$ http://onplace.io/? [R=301,L]
 
 Redirect 301 /page726882.html http://www.onplace.io/
+Redirect 301 http://onplace.io/ch http://www.onplace.io/ch/main.html
