@@ -23,4 +23,5 @@ RewriteCond %{REQUEST_URI} /index.html
 RewriteCond %{QUERY_STRING} ^\z
 RewriteRule ^(.*)$ http://onplace.io/? [R=301,L]
 
-Redirect 301 /page726882.html http://www.onplace.io/
+Redirect 301 /page726882.html https://onplace.io/
+Redirect 301 /en.html https://onplace.io/
