@@ -2,7 +2,7 @@ Options +FollowSymLinks
 RewriteEngine on
 RewriteBase /
 
-ErrorDocument 404 https://onplace.io/404.html
+ErrorDocument 404 /404.html
 
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
