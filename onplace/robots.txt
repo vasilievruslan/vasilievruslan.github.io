@@ -1,3 +1,7 @@
+#Запрет на сканирование папки с изображениями
+User-agent: *
+Disallow: /email
+
 # Инструкции для робота GoogleBot
 User-agent: Googlebot
 Disallow: /whitepapper/
