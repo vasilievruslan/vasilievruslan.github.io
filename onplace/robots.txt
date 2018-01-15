@@ -1,22 +1,26 @@
-#Запрет на сканирование папки с изображениями
+#Disallow "email" folder for index
 User-agent: *
 Disallow: /email
 
-# Инструкции для робота GoogleBot
+#Disallow "bitcoin talk" folder for index
+User-agent: *
+Disallow: /bitcointalk
+
+# GoogleBot
 User-agent: Googlebot
 Disallow: /whitepapper/
 Disallow: /img/
 Crawl-delay: 2
 Host: www.onplace.io
 
-#Инструкции для робота Yandex
+# Yandex-bot
 User-agent: Yandex
 Disallow: /whitepapper/
 Disallow: /img/
 Crawl-delay: 4
 Host: www.onplace.io
 
-#Инструкции для остальных роботов
+# All other robots
 User-agent: *
 Disallow: /whitepapper/
 Disallow: /img/
