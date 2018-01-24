@@ -10,6 +10,12 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-112179619-1');
+
+  try{
+  	cache.delete();
+  }catch(err){
+  	console.log(err)
+  }
 </script>
 
     <meta charset="utf-8">
