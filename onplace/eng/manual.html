@@ -24,6 +24,38 @@
     <link rel="icon" href="../favicon.ico">
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../css/style.css">
+   <style>
+   		@keyframes hiding{
+   			0%{
+   				opacity: 0;
+   			}
+   			50%{
+   				opacity: 1;
+   			}
+   			100%{
+   				opacity: 0;
+   			}
+   		}
+   		.--Crowdsale{
+   			position: relative;
+   		}
+    	.live{
+    		-webkit-animation: 2s hiding infinite ease-in-out;
+    		-o-animation: 2s hiding infinite ease-in-out;
+    		animation: 2s hiding infinite ease-in-out;
+    		background: red;
+			padding: 2px 10px;
+			display: inline-block;
+			position: absolute;
+			bottom: -30px;
+			left: 50%;
+			-webkit-transform: translate(-50%, 0);
+			-ms-transform: translate(-50%, 0);
+			-o-transform: translate(-50%, 0);
+			transform: translate(-50%, 0);
+			
+    	}
+    </style>
     <!--[if lte IE 8]>
     <script type="text/javascript" src=""dist/js/html5.js"></script>
     <script src="dist/js/respond.min.js"/></script>
@@ -60,7 +92,7 @@
 		</div>
 		<div class="navbar__links">
 			<a href="https://bounty.onplace.io/" class="links__item --Bounty">Bounty</a>
-			<a href="https://crowdsale.onplace.io/" class="links__item --Crowdsale">Pre-sale</a>
+			<a href="https://crowdsale.onplace.io/" class="links__item --Crowdsale">Pre-sale <br> <span class="live">LIVE</span></a>
 			<a href="manual.html" id="show-manual" class="links__item --manual">How it works</a>
 			<a href="#" id="show-pop-up" class="links__item --downl">Whitepaper</a>
 			<a href="team.html" class="links__item --team">team</a>
@@ -190,7 +222,7 @@
 							</g>
 						</svg>
 					</a>
-<a target="_blank" href="https://t.me/on_place_chat" class="feedback-ico">
+					<a target="_blank" href="https://t.me/on_place_chat" class="feedback-ico">
 						<svg id="telegram_chat" class="feedback-svg-ico" viewBox="0 0 174 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-619.000000, -82.000000)">
                                 <g id="Telegram-chat" transform="translate(625.000000, 84.000000)" fill-rule="nonzero">
@@ -226,7 +258,6 @@
 				</div>
 				<div style="display: none;" class="space-close"></div>
 			</div>
-			
 			<a href="https://press.onplace.io" class="links__item --blog">press</a>
 			<div class="langswitch-wrap">
 				<div class="langswitch-btn">
@@ -242,7 +273,7 @@
 				</div>
 				<ul class="langswitch">
 					<li class="langswitch-item">
-						<a id="lang-us" href="../eng/manual.html" class="lang">
+						<a id="lang-us" href="../eng/main.html" class="lang">
 							<span>English</span>
 							<svg class="flag flag-us" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 473.677 473.677" style="enable-background:new 0 0 473.677 473.677;" xml:space="preserve">
 								<g>
@@ -356,7 +387,7 @@
 						</a>
 					</li>
 					<li class="langswitch-item">
-						<a id="lang-cn" href="../cn/manual.html" class="lang">
+						<a id="lang-cn" href="../cn/main.html" class="lang">
 							<span lang="cn">中国</span>
 							<svg class="flag flag-cn" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 473.681 473.681" style="enable-background:new 0 0 473.681 473.681;" xml:space="preserve">
 								<circle style="fill:#D62427;" cx="236.85" cy="236.85" r="236.83"/>
@@ -378,7 +409,7 @@
 						</a>
 					</li>	
 					<li class="langswitch-item">
-						<a id="lang-jpn" href="../jp/manual.html" class="lang">
+						<a id="lang-jpn" href="../jp/main.html" class="lang">
 							<span lang="ja">日本語</span>
 							<svg class="flag flag-jpn" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 473.68 473.68" style="enable-background:new 0 0 473.68 473.68;" xml:space="preserve">
 									<g>
@@ -399,7 +430,7 @@
 						</a>
 					</li>
 					<li class="langswitch-item">
-						<a id="lang-kor" href="../kor/manual.html" class="lang">
+						<a id="lang-kor" href="../kor/main.html" class="lang">
 							<span lang="ko">한국어</span>
 							<svg class="flag flag-kor" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 								<circle style="fill:#F0F0F0;" cx="256" cy="256" r="256"/>
@@ -427,7 +458,7 @@
 						</a>
 					</li>
 					<li class="langswitch-item">
-						<a id="lang-esp" href="../esp/manual.html" class="lang">
+						<a id="lang-esp" href="../esp/main.html" class="lang">
 							<span lang="esp">Español</span>
 							<svg class="flag flag-esp" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="0 0 473.673 473.673" style="enable-background:new 0 0 473.673 473.673;" xml:space="preserve">
 								<g>
@@ -450,7 +481,7 @@
 						</a>
 					</li>
 					<li class="langswitch-item">
-						<a id="lang-rus" href="../rus/manual.html" class="lang">
+						<a  id="lang-rus" href="../rus/main.html" class="lang">
 							<span lang="ru">Русский</span>
 							<svg class="flag flag-ru" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="0 0 473.68 473.68" style="enable-background:new 0 0 473.68 473.68;" xml:space="preserve">
 								<circle style="fill:#FFFFFF;" cx="236.85" cy="236.849" r="236.83"/>
@@ -465,7 +496,36 @@
 					</li>
 					
 				</ul>
-			</div>              
+			</div>
+			<div class="footer-contacts">
+				<span>Contact Us</span> 
+				<a class="footer-icons" href="https://medium.com/@onplace">
+					<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					    <g id="Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+					        <g id="How-it-works-HD" transform="translate(-1274.000000, -1247.000000)" fill-rule="nonzero" fill="#9B9B9B">
+					            <g transform="translate(-1.000000, 1233.000000)">
+					                <g id="if_medium_1608545" transform="translate(1275.000000, 14.000000)">
+					                    <path d="M5.525,2.3777336 L5.525,12.4831014 C5.525,12.6266843 5.48643914,12.7487298 5.40931742,12.8492379 C5.3321957,12.949746 5.21959799,13 5.07152429,13 C4.96663875,13 4.86483808,12.9770267 4.76612228,12.9310802 L0.462730318,10.9237906 C0.333165829,10.8663574 0.223652987,10.7701568 0.134191792,10.6351889 C0.0447305974,10.5002209 0,10.3666888 0,10.2345924 L0,0.413518887 C0,0.298652529 0.0308486879,0.201016125 0.0925460637,0.120609675 C0.154243439,0.0402032251 0.243704634,0 0.360929648,0 C0.447305974,0 0.583040201,0.043074884 0.768132328,0.129224652 L5.49723618,2.33465871 C5.51574539,2.35188867 5.525,2.36624696 5.525,2.3777336 Z M5.525,3.05882353 L10.2607143,10.7058824 L5.525,8.35701671 L5.525,3.05882353 Z M15.7857143,3.82352941 L15.7857143,12.5370429 C15.7857143,12.6748278 15.7447884,12.7864335 15.6629365,12.8718601 C15.5810847,12.9572867 15.47,13 15.3296825,13 C15.1893651,13 15.0519709,12.9641759 14.9175,12.8925278 L11.05,11.0737679 L15.7857143,3.82352941 Z M15.7857143,2.35778954 C15.7857143,2.37451145 15.0018461,3.54365178 13.4341096,5.86521051 C11.8663731,8.18676924 10.9480402,9.54542456 10.6791107,9.94117647 L7.10357143,4.64033048 L10.0740195,0.234106763 C10.177924,0.0780355877 10.3368369,0 10.550758,0 C10.6363265,0 10.7157829,0.0167219116 10.7891273,0.0501657349 L15.7490421,2.30762381 C15.7734902,2.31877175 15.7857143,2.33549366 15.7857143,2.35778954 Z" id="Shape"></path>
+					                </g>
+					            </g>
+					        </g>
+					    </g>
+					</svg>
+				</a> 
+				<a class="footer-icons" href="https://twitter.com/on_place">
+					<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					    <g id="Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+					        <g id="How-it-works-HD" transform="translate(-1250.000000, -1247.000000)" fill-rule="nonzero" fill="#9B9B9B">
+					            <g id="footer" transform="translate(-1.000000, 1233.000000)">
+					                <g id="if_03-twitter_104501" transform="translate(1251.000000, 14.000000)">
+					                    <path d="M16,1.53886696 C15.4118101,1.80026977 14.7787995,1.97659489 14.1146093,2.05550282 C14.7927654,1.64959784 15.3127499,1.00664435 15.5579644,0.239646301 C14.9236547,0.616001399 14.2214644,0.88909427 13.4734791,1.03651896 C12.874896,0.398761053 12.0216796,0 11.0775227,0 C9.2648844,0 7.79522157,1.46937603 7.79522157,3.28198531 C7.79522157,3.53884198 7.82412764,3.78920418 7.88031586,4.02982465 C5.15210198,3.89279113 2.73308568,2.58642654 1.11402066,0.600739372 C0.831455656,1.08522756 0.669711548,1.64894839 0.669711548,2.25098666 C0.669711548,3.38946895 1.24913221,4.39416496 2.12995554,4.98256482 C1.59210767,4.96535445 1.08576416,4.81760504 0.643078984,4.57178898 C0.642754197,4.58542739 0.642754197,4.59939052 0.642754197,4.61335365 C0.642754197,6.20320228 1.77431338,7.52937503 3.27613016,7.83136834 C3.00071047,7.90605485 2.71067535,7.94632063 2.4112214,7.94632063 C2.19946004,7.94632063 1.99386964,7.92586302 1.79347583,7.88722086 C2.21147717,9.19098766 3.42358362,10.1401559 4.85979335,10.1664585 C3.73635386,11.0467852 2.3212553,11.5715392 0.783062339,11.5715392 C0.518360636,11.5715392 0.256906806,11.5559524 0,11.5254284 C1.45309867,12.4570615 3.17836916,13 5.03193066,13 C11.0700526,13 14.3715161,7.99925064 14.3715161,3.6622371 C14.3715161,3.52000799 14.3685931,3.37810361 14.3624221,3.2371734 C15.0035524,2.7754159 15.5602379,2.19708248 16,1.53886696 Z" id="Shape"></path>
+					                </g>
+					            </g>
+					        </g>
+					    </g>
+					</svg>
+				</a>
+			</div>           
 		</div>
 	</div>
 		<h2>How it works</h2>
