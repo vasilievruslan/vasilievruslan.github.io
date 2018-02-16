@@ -43,6 +43,14 @@
    				opacity: 0;
    			}
    		}
+   		.presale{
+   			-webkit-animation: hiding 2s infinite ease-in-out;
+   			-o-animation: hiding 2s infinite ease-in-out;
+   			animation: hiding 2s infinite ease-in-out;
+   			-webkit-animation-delay: 1s;
+   			-o-animation-delay: 1s;
+   			animation-delay: 1s;
+   		}
    		.--Crowdsale{
    			position: relative;
    		}
@@ -50,12 +58,13 @@
     		-webkit-animation: 2s hiding infinite ease-in-out;
     		-o-animation: 2s hiding infinite ease-in-out;
     		animation: 2s hiding infinite ease-in-out;
-    		background: red;
+    		background: #2e8fdf;
 			padding: 2px 10px;
 			display: inline-block;
 			position: absolute;
-			bottom: -30px;
+			top: 0;
 			left: 50%;
+			color: #fff;
 			-webkit-transform: translate(-50%, 0);
 			-ms-transform: translate(-50%, 0);
 			-o-transform: translate(-50%, 0);
@@ -105,7 +114,7 @@
 		</div>
 		<div class="navbar__links">
 			<a href="manual.html" id="show-manual" class="links__item --manual">About</a>
-			<a href="https://crowdsale.onplace.io/" class="links__item --Crowdsale">Pre-sale <br> <span class="live">LIVE</span></a>
+			<a href="https://crowdsale.onplace.io/" class="links__item --Crowdsale"><span class="presale">Pre-sale</span> <br> <span class="live">LIVE</span></a>
 			<a href="#" id="show-pop-up" class="links__item --downl">Whitepaper</a>
 			<a href="team.html" class="links__item --team">team</a>
 			<a href="roadmap.html" class="links__item --roadmap">roadmap</a>
