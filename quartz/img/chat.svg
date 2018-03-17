@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="702px" viewBox="0 0 467 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="421" height="198" rx="18"></rect>
+        <filter x="-4.5%" y="-7.1%" width="109.0%" height="119.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#BB8DEA" offset="0%"></stop>
+            <stop stop-color="#9D88D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.2227445%" y1="97.482388%" x2="48.2227445%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#FAFBFC" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#FAFBFC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mainPageQuartz" transform="translate(-281.000000, -3512.000000)">
+            <g id="mainPage">
+                <g id="rateBlock" transform="translate(0.000000, 3349.000000)">
+                    <g id="chat" style="mix-blend-mode: darken;" transform="translate(281.000000, 163.000000)">
+                        <g id="optionButtons" transform="translate(24.000000, 330.000000)">
+                            <g id="optionButton">
+                                <rect id="Rectangle-3" fill="#D8D8D8" x="0" y="0" width="120" height="57" rx="20"></rect>
+                                <text id="other" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="30" y="36">other</tspan>
+                                </text>
+                            </g>
+                            <g id="optionButton" transform="translate(150.000000, 0.000000)">
+                                <rect id="Rectangle-3" fill="#D8D8D8" x="0" y="0" width="120" height="57" rx="20"></rect>
+                                <text id="other" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="30" y="36">other</tspan>
+                                </text>
+                            </g>
+                            <g id="optionButton" transform="translate(300.000000, 0.000000)">
+                                <rect id="Rectangle-3" fill="#D8D8D8" x="0" y="0" width="120" height="57" rx="20"></rect>
+                                <text id="other" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="30" y="36">other</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="exampleRate" transform="translate(23.000000, 488.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <polyline id="Path-4" stroke="url(#linearGradient-4)" stroke-width="5" stroke-linejoin="round" mask="url(#mask-2)" points="-0.78698478 134.363551 7.07304889 115.843731 16.3346214 115.843731 18.9559257 108.589424 33.79539 107.692749 38.9376908 128.203763 50.2691516 157.039219 58.9388524 154.977089 66.7501176 163.402394 94.3297859 165.843033 106.179411 169.93127 118.021833 161.101963 124.776263 168.940384 133.16222 158.703997 138.327243 145.629064 143.000702 150.600121 151.667631 145.629064 156.915228 157.039219 163.581543 149.764961 169.825013 153.305107 176.788372 131.791569 186.671188 131.791569 192.793292 136.033871 197.173585 147.14809 204.488853 140.486763 211.087557 121.834492 217.31274 120.631906 235.188594 87.5818587 245.433294 90.3045792 262.395295 107.692749 275.453602 92.6637531 280.023428 113.590961 285.309263 119.132831 291.460184 117.626551 300.850882 131.048959 316.405247 133.161519 321.26713 113.590961 328.657213 124.33443 330.123037 130.335166 338.671925 128.756564 345.469028 137.908131 354.871364 110.64047 370.737183 78.5790915 390.706756 91.7521156 399.810939 80.029953 406.369188 83.9735474 411.253792 73.950522 422.695536 88.4901711"></polyline>
+                            <g id="top" mask="url(#mask-2)">
+                                <g transform="translate(29.000000, 26.000000)">
+                                    <g id="text" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal">
+                                        <text id="BTC---XRP-rate" fill="#333333">
+                                            <tspan x="0" y="15">BTC - XRP rate</tspan>
+                                        </text>
+                                        <text id="Show-details" opacity="0.5" fill="#333333">
+                                            <tspan x="213" y="15">Show details</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="featuresArrow" opacity="0.5" transform="translate(343.000000, 4.000000)">
+                                        <path d="M1,6.743424 L16.586,6.743424 L11.222,10.731088 C10.8315,11.0213905 10.8315,11.4921564 11.22175,11.7822731 C11.61225,12.0725756 12.24575,12.0725756 12.63625,11.7822731 L19.707,6.52560417 C19.7535,6.49103549 19.795,6.45293561 19.8315,6.41241964 C19.84825,6.39364847 19.86,6.37339049 19.8745,6.35387591 C19.891,6.33083013 19.91,6.30889946 19.92325,6.28455271 C19.9375,6.25946254 19.9455,6.23344311 19.9555,6.20742367 C19.96375,6.18679398 19.9745,6.16709355 19.98025,6.1459063 C19.99325,6.09758449 20,6.04889098 20,6.00001162 C20,5.99945406 19.99975,5.9988965 19.99975,5.99833894 C19.9995,5.95020299 19.993,5.90188118 19.98025,5.85448865 C19.97425,5.83218627 19.963,5.81155658 19.95425,5.78962592 C19.9445,5.76490745 19.937,5.73981729 19.9235,5.71584224 C19.909,5.69000866 19.8895,5.66659117 19.8715,5.64224441 C19.858,5.62403081 19.84725,5.6054455 19.83175,5.58797531 C19.79525,5.54690177 19.75325,5.50861604 19.7065,5.47386151 L12.636,0.217750138 C12.2455,-0.0725523962 11.61225,-0.0725523962 11.22175,0.217564285 C10.83125,0.507866818 10.83125,0.978632707 11.22175,1.26912109 L16.58575,5.25659924 L1,5.25659924 C0.44775,5.25659924 0,5.58946213 0,6.00001162 C0,6.4105611 0.44775,6.743424 1,6.743424 Z" id="Shape" fill="#333333" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="chatWindow" transform="translate(110.000000, 83.000000)">
+                            <rect id="Rectangle-4" fill="#D8D8D8" x="0" y="0" width="334" height="90" rx="10"></rect>
+                            <text id="How-will-the-course" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal" fill="#333333">
+                                <tspan x="28" y="28">How will the course of </tspan>
+                                <tspan x="28" y="52">the NEO perform this </tspan>
+                                <tspan x="28" y="76">week?</tspan>
+                            </text>
+                        </g>
+                        <g id="chatText" transform="translate(23.000000, 212.000000)" fill="#333333" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal">
+                            <text id="Sure-one-second.">
+                                <tspan x="0" y="237">Sure one second.</tspan>
+                            </text>
+                            <text id="Choose-your-option">
+                                <tspan x="1" y="86">Choose your option</tspan>
+                            </text>
+                            <text id="What-exchange-rate-a">
+                                <tspan x="1" y="19">What exchange rate are </tspan>
+                                <tspan x="1" y="43">you looking for?</tspan>
+                            </text>
+                        </g>
+                        <text id="How-I-can-assist-you" font-family="RobotoMono-Regular, Roboto Mono" font-size="20" font-weight="normal" fill="#333333">
+                            <tspan x="24" y="39">How I can assist you today Mike?</tspan>
+                        </text>
+                        <rect id="grad" fill="url(#linearGradient-5)" x="0" y="0" width="467" height="468"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
