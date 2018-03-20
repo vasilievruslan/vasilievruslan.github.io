@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="573px" height="601px" viewBox="0 0 573 601" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>voice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="47.6185381%" cy="50%" fx="47.6185381%" fy="50%" r="63.6355286%" gradientTransform="translate(0.476185,0.500000),scale(0.959578,1.000000),rotate(51.787744),translate(-0.476185,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#2F2E68" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2F2E68" stop-opacity="0.402825628" offset="70.0353527%"></stop>
+            <stop stop-color="#2F2E68" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="54.1546762%" cy="50%" fx="54.1546762%" fy="50%" r="84.829123%" gradientTransform="translate(0.541547,0.500000),scale(1.000000,0.912935),rotate(73.512064),translate(-0.541547,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#1F1E42" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#983F6F" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="111.348429%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.983193),rotate(59.465984),translate(-0.500000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#6066EE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#6066EE" stop-opacity="0.240885917" offset="28.8450631%"></stop>
+            <stop stop-color="#6066EE" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="52.0654082%" cy="45.1181634%" fx="52.0654082%" fy="45.1181634%" r="91.9207339%" gradientTransform="translate(0.520654,0.451182),scale(1.000000,0.873315),rotate(68.559807),translate(-0.520654,-0.451182)" id="radialGradient-4">
+            <stop stop-color="#202047" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#544083" stop-opacity="0.386920915" offset="38.5628946%"></stop>
+            <stop stop-color="#A773E1" offset="100%"></stop>
+        </radialGradient>
+        <path d="M290.858952,487 C398.383274,485.207445 367.90373,383.846437 408.480682,290.023346 C427.163409,248.738854 461.397406,195.885942 424.784313,154.18397 C404.209044,130.245742 381.3343,109.590086 349.119841,117.854048 C324.843317,123.279955 296.360713,153.596694 254.62494,158.263629 C218.115822,162.32783 181.546554,159.379444 163.602484,162.425411 C128.391291,171.340761 113.595453,212.977365 117.653004,234.934836 C118.509496,243.988022 121.736387,257.401501 161.531276,307.782343 C208.039046,373.201557 187.361172,482.69697 290.858952,487 Z" id="path-5"></path>
+        <filter x="-52.2%" y="-48.2%" width="210.5%" height="196.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="9" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="10" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="285" cy="279" r="50"></circle>
+        <filter x="-157.5%" y="-157.5%" width="415.0%" height="415.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="7.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="45" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.117647059   0 0 0 0 0.117647059   0 0 0 0 0.254901961  0 0 0 0.858837183 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mainPageQuartz" transform="translate(-189.000000, -1213.000000)">
+            <g id="mainPage">
+                <g id="headerBlock">
+                    <g id="voice" transform="translate(191.000000, 1215.000000)">
+                        <path d="M323.998975,459.155256 C491.894801,546.564178 577.563896,422.197093 568.323843,343.876072 C559.656533,270.409751 495.56518,238.657471 478.469016,186.548769 C446.988656,120.601289 431.971783,19.0622489 364.916051,0.982032699 C343.671539,-4.74611833 310.728833,15.8369383 292.464177,30.2851196 C211.694783,94.1774206 170.185641,74.5272564 63.1927812,131.693823 C21.5269448,163.768677 18.7359619,211.38053 10.8025984,270.409751 C-37.6664013,478.571154 90.0484912,518.19323 135.360559,542.834482 C183.568659,567.82869 265.928634,435.887477 323.998975,459.155256 Z" id="Oval-Copy-2" stroke="#2F2E68" stroke-width="3" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M251.980444,437.063076 C328.73974,429.220784 330.521778,475.892221 375.600927,478.687303 C425.701477,483.779999 446.237919,425.788796 452.662044,368.823231 C457.401199,326.799044 453.628495,285.258005 452.662044,270.399995 C452.048766,178.877851 316.99113,51.5426063 234.896958,81.4483734 C179.864081,97.0879796 194.826783,177.716447 162.90582,245.967842 C155.146197,270.791092 88.5916093,333.260969 88.5916093,359.926854 C81.6207891,389.328221 136.261938,461.600359 251.980444,437.063076 Z" id="Oval" stroke="#983F6F" stroke-width="3" fill="url(#radialGradient-2)" fill-rule="nonzero"></path>
+                        <path d="M257.412502,517 C301.387564,517 307.608689,482.685673 347.00298,448.895999 C405.545231,398.682544 470.667777,407.517172 500.836049,350.649226 C514.009605,328.676036 515.244537,276.214356 513.231939,224.911913 C511.627983,184.026028 505.098954,138.191969 492.269795,117.822201 C460.499998,60.9053874 368.714542,20.6984277 336.866072,51.8588304 C223.566241,151.864949 299.105283,134.540478 139.867782,127.266472 C67.1509094,130.368901 39.5668944,218.258394 47.2399958,269.911474 C66.0878118,321.294118 120.1151,344.12205 139.867782,379.066842 C197.659211,460.9658 228.751697,517 257.412502,517 Z" id="Oval-Copy-3" stroke="#6066EE" stroke-width="3" fill="url(#radialGradient-3)" fill-rule="nonzero"></path>
+                        <g id="Oval-Copy" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use stroke="#A773E1" stroke-width="3" fill="url(#radialGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="Oval" fill="black" fill-opacity="1">
+                            <use filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
