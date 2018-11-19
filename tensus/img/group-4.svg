@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="843" height="722" viewBox="0 0 843 722">
+    <defs>
+        <path id="a" d="M0 0h421v722H0z"/>
+        <circle id="c" cx="421" cy="361" r="162"/>
+        <filter id="d" width="104.6%" height="104.6%" x="-2.3%" y="-2.3%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="7"/>
+            <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FA8F3F" d="M0 0h422v361H0z"/>
+        <path fill="#F67230" d="M0 0l422 361H0z"/>
+        <path fill="#A3C3DC" d="M0 361h422v361H0z"/>
+        <path fill="#BAD2E7" d="M422 361v361H0z"/>
+        <g transform="translate(422)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#0B71BC" xlink:href="#a"/>
+            <g mask="url(#b)">
+                <use fill="#075AAA" xlink:href="#c"/>
+                <use fill="#000" filter="url(#d)" xlink:href="#c"/>
+            </g>
+        </g>
+        <g fill="#FFF" fill-rule="nonzero">
+            <path d="M843.003 380c-.757 0-1.484-.3-2.02-.834l-16.15-16.144A2.851 2.851 0 0 1 824 361c0-.76.303-1.485.833-2.021l16.15-16.145a2.856 2.856 0 0 1 4.035 0l16.149 16.145c.536.536.833 1.261.833 2.02 0 .76-.303 1.485-.833 2.022l-16.15 16.144a2.844 2.844 0 0 1-2.014.834zm-12.113-19l12.113 12.11L855.122 361l-12.12-12.108-12.112 12.109z"/>
+            <path d="M796 358h34.588v6H796v-6zm63.412 0H894v6h-34.588v-6z"/>
+            <path d="M895.429 370c-4.726 0-8.572-4.038-8.572-9s3.846-9 8.572-9c4.725 0 8.571 4.038 8.571 9s-3.846 9-8.571 9zm0-12c-1.572 0-2.858 1.35-2.858 3s1.286 3 2.858 3c1.571 0 2.857-1.35 2.857-3s-1.286-3-2.857-3zM792.57 370c-4.725 0-8.571-4.038-8.571-9s3.846-9 8.571-9c4.726 0 8.572 4.038 8.572 9s-3.846 9-8.572 9zm0-12c-1.577 0-2.857 1.35-2.857 3s1.28 3 2.857 3c1.578 0 2.858-1.35 2.858-3s-1.28-3-2.858-3z"/>
+        </g>
+    </g>
+</svg>
