@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    color: #fff;
+    background-color: #202020;
+}
+
+section {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header {
+    background-color: #000000;
+    padding: 12px 0px;
+    position: relative;
+}
+
+.wrapper {
+    width: 1200px;
+    max-width: 90vw;
+    margin: 0 auto;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.main {
+    -webkit-flex: 1;
+    -moz-flex: 1;
+    -ms-flex: 1;
+    -o-flex: 1;
+    flex: 1;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+    border: 5px solid #202020;
+    background-color: #282828;
+}
+
+.navi {
+    padding: 0;
+    margin: 0;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    list-style-type: none;
+}
+
+.navi__item a {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.container {
+    width: 665px;
+    height: 400px;
+    box-shadow: inset 0 2px 3px 0 #00000080;
+    background: #202020 url('../img/excalibur-logo-bg.svg') right 100px center no-repeat;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+    justify-content: center;
+    padding: 130px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container a {
+    display: block;
+    line-height: 0;
+    margin: 10px 0px;
+}
+
+.menuToggle {
+    display: none;
+    position: relative;
+    top: 0;
+    left: 0;
+
+    z-index: 1;
+
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.menuToggle span {
+    display: block;
+    width: 33px;
+    height: 4px;
+    margin-bottom: 5px;
+    position: relative;
+
+    background: #fff;
+    border-radius: 3px;
+
+    z-index: 1;
+
+    transform-origin: 4px 0px;
+
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+        background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+        opacity 0.55s ease;
+}
+
+.menuToggle span:first-child {
+    transform-origin: 0% 0%;
+}
+
+.menuToggle span:nth-last-child(2) {
+    transform-origin: 0% 100%;
+}
+
+
+.menuToggle.active span {
+    opacity: 1;
+    transform: rotate(45deg) translate(-7px, -13px);
+}
+
+/*
+ * But let's hide the middle one.
+ */
+.menuToggle.active span:nth-last-child(3) {
+    opacity: 0;
+    transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+.menuToggle.active span:nth-last-child(2) {
+    transform: rotate(-45deg) translate(-6px, 14px);
+}
+
+
+@media screen and (max-width: 768px) {
+	.menuToggle{
+		display: block;
+		z-index: 2;
+	}
+    .container {
+        padding: 0;
+        -ms-align-items: center;
+        align-items: center;
+        width: 90vw;
+    }
+    .navi{
+    	position: absolute;
+    	-webkit-flex-direction: column;
+    	-moz-flex-direction: column;
+    	-ms-flex-direction: column;
+    	-o-flex-direction: column;
+    	flex-direction: column;
+		justify-content: flex-start;
+    	-ms-align-items: center;
+    	align-items: center;
+    	height: 100vh;
+    	background: #000;
+    	right: -200px;
+    	top: 0;
+    	width: 200px;
+    	padding-top: 56px;
+    	-webkit-transition: 0.3s ease-in-out;
+    	-o-transition: 0.3s ease-in-out;
+    	transition: 0.3s ease-in-out;
+    }
+    .navi__item{
+    	margin: 20px 0px;
+    }
+    .navi.active{
+    	right: 0;
+    }
+}
